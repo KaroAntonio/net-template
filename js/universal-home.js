@@ -4,6 +4,7 @@ e.css({
 	'background':'white',
 	'cursor':'pointer',
 	'position':'absolute',
+	'z-index':10000,
 	'top':'10px',
 	'left':'10px'
 	}); 
